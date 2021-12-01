@@ -7,7 +7,11 @@ const user = {
     password: 'loremipsumpwd123',
     lovesJavascript: true,
     favoriteNumber: 42
-};
+};$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+nothing to commit, working tree clean
 ```
 
 ### Acceder a los valores
